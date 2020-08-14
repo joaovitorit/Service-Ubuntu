@@ -27,7 +27,7 @@ ExecStart=/usr/local/bin/node_exporter
 WantedBy=multi-user.target
 
 2 - DIGITE:
-OBS. ESSE COMANDODÁ UM RELOAD NOS SERVIÇOS DA PASTA MENCIONADA NO ITEM 1
+OBS. ESSE COMANDO TEM A FUNÇÃO DE DÁ UM RELOAD NOS SERVIÇOS DA PASTA MENCIONADA NO ITEM 1
 
 systemctl daemon-reload  
 
