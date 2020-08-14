@@ -35,7 +35,7 @@ systemctl daemon-reload
 
 systemctl start node_exporter.service
 
-4 - 3 - AGORA VAMOS CERTIFICAR QUE O SERVIÇO FOI INICIADO COM SUCESSO
+4 - AGORA VAMOS CERTIFICAR QUE O SERVIÇO FOI INICIADO COM SUCESSO
 
 systemctl status node_exporter.service
 
